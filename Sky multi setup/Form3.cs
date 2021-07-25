@@ -146,7 +146,7 @@ namespace Sky_multi_setup
             {
                 classesKey = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\", true);
                 classesKey.CreateSubKey("Sky multi").SetValue("DisplayName", "Sky multi 3.0.0 (x64)");
-                classesKey.CreateSubKey("Sky multi").SetValue("DisplayVersion", "3.0.0-Beta-08-07-2021");
+                classesKey.CreateSubKey("Sky multi").SetValue("DisplayVersion", "3.0.0-Beta2-05-08-2021");
                 classesKey.CreateSubKey("Sky multi").SetValue("DisplayIcon", '"' + Path + @"\Sky multi.exe" + '"' + ",0");
                 classesKey.CreateSubKey("Sky multi").SetValue("HelpLink", "https://serie-sky.netlify.app");
                 classesKey.CreateSubKey("Sky multi").SetValue("URLUpdateInfo", "https://serie-sky.netlify.app");
@@ -160,7 +160,7 @@ namespace Sky_multi_setup
             {
                 classesKey = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall", true);
                 classesKey.CreateSubKey("Sky multi").SetValue("DisplayName", "Sky multi 3.0.0 (x86)");
-                classesKey.CreateSubKey("Sky multi").SetValue("DisplayVersion", "3.0.0-Beta-08-07-2021");
+                classesKey.CreateSubKey("Sky multi").SetValue("DisplayVersion", "3.0.0-Beta2-05-08-2021");
                 classesKey.CreateSubKey("Sky multi").SetValue("DisplayIcon", '"' + Path + @"\Sky multi.exe" + '"' + ",0");
                 classesKey.CreateSubKey("Sky multi").SetValue("HelpLink", "https://serie-sky.netlify.app");
                 classesKey.CreateSubKey("Sky multi").SetValue("URLUpdateInfo", "https://serie-sky.netlify.app");
