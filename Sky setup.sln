@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sky multi setup", "Sky multi setup\Sky multi setup.csproj", "{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sky multi Uninstaller", "Sky multi Uninstaller\Sky multi Uninstaller.csproj", "{7F498880-E5D7-4EE0-A100-2A856F7F2612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Debug|x64.ActiveCfg = Debug|x64
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Debug|x64.Build.0 = Debug|x64
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Debug|x86.ActiveCfg = Debug|x86
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Debug|x86.Build.0 = Debug|x86
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Release|x64.ActiveCfg = Release|x64
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Release|x64.Build.0 = Release|x64
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Release|x86.ActiveCfg = Release|x86
+		{766A79A1-B303-42BF-8A41-1E0CE07EA1D0}.Release|x86.Build.0 = Release|x86
+		{7F498880-E5D7-4EE0-A100-2A856F7F2612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F498880-E5D7-4EE0-A100-2A856F7F2612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F498880-E5D7-4EE0-A100-2A856F7F2612}.Debug|x64.ActiveCfg = Debug|x64
+		{7F498880-E5D7-4EE0-A100-2A856F7F2612}.Debug|x86.ActiveCfg = Debug|x86
+		{7F498880-E5D7-4EE0-A100-2A856F7F2612}.Debug|x86.Build.0 = Debug|x86
+		{7F498880-E5D7-4EE0-A100-2A856F7F2612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F498880-E5D7-4EE0-A100-2A856F7F2612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F498880-E5D7-4EE0-A100-2A856F7F2612}.Release|x64.ActiveCfg = Release|x64
+		{7F498880-E5D7-4EE0-A100-2A856F7F2612}.Release|x64.Build.0 = Release|x64
+		{7F498880-E5D7-4EE0-A100-2A856F7F2612}.Release|x86.ActiveCfg = Release|x86
+		{7F498880-E5D7-4EE0-A100-2A856F7F2612}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEEF1A0C-1A4D-4749-8DCC-6984E69D7129}
+	EndGlobalSection
+EndGlobal
