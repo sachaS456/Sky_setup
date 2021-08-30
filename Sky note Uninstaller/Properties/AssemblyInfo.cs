@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("Sky multi Uninstaller")]
-[assembly: AssemblyDescription("Sky mulit Uninstaller")]
+[assembly: AssemblyTitle("Sky note Uninstaller")]
+[assembly: AssemblyDescription("Sky note Uninstaller")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Sacha Himber")]
-[assembly: AssemblyProduct("Sky multi Uninstaller")]
+[assembly: AssemblyProduct("Sky note Uninstaller")]
 [assembly: AssemblyCopyright("Copyright © Himber Sacha 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -21,7 +21,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("7f498880-e5d7-4ee0-a100-2a856f7f2612")]
+[assembly: Guid("fc91d004-cc24-4862-944a-07af30d89e79")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //

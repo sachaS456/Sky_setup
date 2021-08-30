@@ -7,11 +7,11 @@ using System.Runtime.InteropServices;
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
 [assembly: AssemblyTitle("Sky multi setup")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Sky multi setup")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Sacha Himber")]
 [assembly: AssemblyProduct("Sky multi setup")]
-[assembly: AssemblyCopyright("Copyright ©  Himber Sacha 2021")]
+[assembly: AssemblyCopyright("Copyright © Himber Sacha 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
