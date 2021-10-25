@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Sacha Himber")]
 [assembly: AssemblyProduct("Sky note Uninstaller")]
-[assembly: AssemblyCopyright("Copyright © Himber Sacha 2021")]
+[assembly: AssemblyCopyright("Copyright © 2021 Himber Sacha")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
