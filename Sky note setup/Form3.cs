@@ -163,8 +163,8 @@ namespace Sky_note_setup
             if (Environment.Is64BitProcess == true)
             {
                 classesKey = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\", true);
-                classesKey.CreateSubKey("Sky note").SetValue("DisplayName", "Sky note 3.0.0 (x64)");
-                classesKey.CreateSubKey("Sky note").SetValue("DisplayVersion", "3.0.0");
+                classesKey.CreateSubKey("Sky note").SetValue("DisplayName", "Sky note 3.0.1 (x64)");
+                classesKey.CreateSubKey("Sky note").SetValue("DisplayVersion", "3.0.1");
                 classesKey.CreateSubKey("Sky note").SetValue("DisplayIcon", '"' + Path + @"\Sky note.exe" + '"' + ",0");
                 classesKey.CreateSubKey("Sky note").SetValue("HelpLink", "https://serie-sky.netlify.app");
                 classesKey.CreateSubKey("Sky note").SetValue("URLUpdateInfo", "https://serie-sky.netlify.app");
@@ -177,8 +177,8 @@ namespace Sky_note_setup
             else
             {
                 classesKey = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall", true);
-                classesKey.CreateSubKey("Sky note").SetValue("DisplayName", "Sky note 3.0.0 (x86)");
-                classesKey.CreateSubKey("Sky note").SetValue("DisplayVersion", "3.0.0");
+                classesKey.CreateSubKey("Sky note").SetValue("DisplayName", "Sky note 3.0.1 (x86)");
+                classesKey.CreateSubKey("Sky note").SetValue("DisplayVersion", "3.0.1");
                 classesKey.CreateSubKey("Sky note").SetValue("DisplayIcon", '"' + Path + @"\Sky note.exe" + '"' + ",0");
                 classesKey.CreateSubKey("Sky note").SetValue("HelpLink", "https://serie-sky.netlify.app");
                 classesKey.CreateSubKey("Sky note").SetValue("URLUpdateInfo", "https://serie-sky.netlify.app");
